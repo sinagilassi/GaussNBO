@@ -2,6 +2,8 @@
 
 ![GaussNBO](./statics/header.png)
 
+![Downloads](https://img.shields.io/pypi/dm/GaussNBO) ![PyPI](https://img.shields.io/pypi/v/GaussNBO) ![License](https://img.shields.io/pypi/l/GaussNBO)
+
 A Python package for parsing Natural Bond Orbital (NBO) data from Gaussian log files.
 
 ## What is NBO? 🤔
