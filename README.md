@@ -61,10 +61,6 @@ nbo_data = gnbo.launch('path/to/file.log', view_browser=False)
 Contributions to GaussNBO are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 
-## License 📜
-
-GaussNBO is released under the MIT License. This means you are free to use, modify, and distribute this software in your own projects, provided that you include proper attribution to the original author. Please ensure that my name is retained in any derivative works or distributions of this code.
-
 ## ❓ FAQ
 
 For any question, contact me on [LinkedIn](https://www.linkedin.com/in/sina-gilassi/)
