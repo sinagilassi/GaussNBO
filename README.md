@@ -34,6 +34,18 @@ GaussNBO is a Python package designed to parse NBO data from Gaussian log files.
 - Compatible with `Gaussian NBO Version 3.1`
 - Visualization of NBO analysis results in browser
 
+## Web Application 🌐
+
+For a quick analysis without installing the package, you can use our online web application:
+
+[https://gaussnbo.up.railway.app/](https://gaussnbo.up.railway.app/)
+
+This web interface allows you to:
+
+- Upload your Gaussian NBO log files
+- Analyze NBO data directly in your browser
+- Visualize results without any local installation
+
 ## Installation 📦
 
 To install GaussNBO, run the following command:
